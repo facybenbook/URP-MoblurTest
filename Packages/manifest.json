@@ -3,6 +3,7 @@
     "com.unity.render-pipelines.universal": "17.0.3",
     "com.unity.visualeffectgraph": "17.0.3",
     "jp.keijiro.metatex": "1.0.4",
+    "jp.keijiro.vfxgraphassets": "3.3.0",
     "com.unity.modules.animation": "1.0.0"
   },
   "scopedRegistries": [
